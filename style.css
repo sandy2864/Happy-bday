@@ -59,8 +59,8 @@ p{
 }
 .card-title{
 	  font-size: 35px;           
-  	background: linear-gradient(to right, #330867 100%,#321 100%);
-  
+  	background: linear-gradient(to right, #fff 100%,#fff 100%);
+    
     
   		-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -68,5 +68,6 @@ p{
   -webkit-text-fill-color: transparent;
 }
 .card-body{
-    background-color: #e2e2e2;
+    background-color: #36454F;
+    margin:2px;
 }
