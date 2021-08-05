@@ -1,0 +1,67 @@
+*{padding:0;margin:0;box-sizing: border-box;font-family: 'popins';}
+.carousel-inner img{
+	height:100vh;
+	width:100%;
+	
+}
+.aboutimg{
+	width: auto;
+	height: 550px !important;
+	opacity: 0.95;
+  margin-bottom: 85px !important;
+    -ms-transform: scale(1.1);
+        transform: scale(1.1);
+}
+
+html, body {
+
+background: rgb(2,0,36);
+background: linear-gradient(249deg, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 0%, rgba(152,152,166,1) 49%, rgba(168,169,181,1) 50%, rgba(248,254,255,1) 71%, rgba(243,253,255,1) 84%, rgba(180,195,198,1) 89%, rgba(180,195,198,1) 94%, rgba(162,179,182,1) 100%, rgba(0,212,255,1) 100%);
+   max-width: 100%;
+   overflow-x: hidden;
+  background-color: #C3CFE2;
+}
+
+
+p,h3,h1,h4{
+	font-family: 'popins', cursive;
+
+}
+.kk{
+  font-size: 30px;
+}
+h3 {
+  font-size: 72px;
+  	background: linear-gradient(to left, #30CFD0 0%, #330867 100%);
+  		-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+p {
+    font-size: 20px;           
+  	background: linear-gradient(to left, #30CFD0 0%, #330867 100%);
+  		-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h2,h4 {
+    font-size: 20px;           
+  	background: linear-gradient(to right, #330867 0%,#321 100%);
+  		-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+p{
+  text-align: center;
+}
+.card-title{
+	  font-size: 35px;           
+  	background: linear-gradient(to right, #330867 100%,#321 100%);
+  		-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
