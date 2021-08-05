@@ -60,8 +60,13 @@ p{
 .card-title{
 	  font-size: 35px;           
   	background: linear-gradient(to right, #330867 100%,#321 100%);
+  
+    
   		-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+.card-body{
+    background-color: #e2e2e2;
 }
